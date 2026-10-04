@@ -1,3 +1,7 @@
+// ================================================================
+// ACTIVITY 1:
+// ================================================================
+
 const numberOne: number = 1;
 const isActive: boolean = true;
 const name: string = "John mark";
